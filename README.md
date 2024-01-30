@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vivekop0/vivekop0/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
