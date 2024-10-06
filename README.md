@@ -61,3 +61,5 @@
 <img src="https://raw.githubusercontent.com/vivekop0/vivekop0/output/snake.svg" alt="Snake animation" />
 
 ###
+badges 💪 
+[![An image of @vivekop0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekop0)](https://holopin.io/@vivekop0)
